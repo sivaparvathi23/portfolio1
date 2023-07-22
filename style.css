@@ -6,7 +6,7 @@
 
 .bannerBgImage{
     height: 100vh;
-    background: url("/images/bannerImage.jpg");
+    background: url("C:\ibm project\images\background.jpg");
     background-size: cover;
     position: relative;
 }
